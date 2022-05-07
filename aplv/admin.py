@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from aplv.models import Aplv
+
+admin.site.register(Aplv)
+
