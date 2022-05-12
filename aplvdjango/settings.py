@@ -97,6 +97,15 @@ DATABASES = {
         'HOST': 'ec2-18-210-64-223.compute-1.amazonaws.com',
         'PORT': '5432',
     }
+
+##'default': {
+##  'ENGINE': 'django.db.backends.postgresql',
+##'NAME': 'd4cdbor32h3hrg',
+##'USER': 'postgres',
+##'PASSWORD': '123456',
+##'HOST': 'localhost',
+##'PORT': '5432',
+
 }
 
 
